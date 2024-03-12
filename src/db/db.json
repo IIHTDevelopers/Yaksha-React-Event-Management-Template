@@ -1,0 +1,38 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Tech Innovators Conference 2024",
+      "date": "2024-05-15",
+      "time": "09:00",
+      "venue": "Convention Center, Tech City",
+      "description": "A gathering of leading tech innovators and industry experts to discuss future technologies."
+    }
+  ],
+  "guests": [
+    {
+      "id": 1,
+      "name": "Alex Johnson",
+      "email": "alex.johnson@example.com",
+      "rsvp": "Yes"
+    }
+  ],
+  "agendas": [
+    {
+      "id": 1,
+      "eventId": 1,
+      "time": "10:00",
+      "title": "Opening Keynote",
+      "speaker": "Chris Doe",
+      "description": "An insightful keynote on the impact of emerging technologies on our future."
+    }
+  ],
+  "registrations": [
+    {
+      "id": 1,
+      "guestId": 1,
+      "agendaId": 1,
+      "status": "Registered"
+    }
+  ]
+}
